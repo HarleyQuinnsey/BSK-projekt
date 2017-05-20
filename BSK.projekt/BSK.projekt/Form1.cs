@@ -14,10 +14,11 @@ namespace BSK.projekt
     public partial class Form1 : Form
     {
         private int user_count = 0, tableNumber;
-        string recipient, typedLogin, tableName, chosenActivityOnBase = ""; //recipient to biorca
+        string recipient, typedLogin, tableName, chosenActivityOnBase = "", query; //recipient to biorca
         bool goOn = false; //goOn jest po to, że jak użytkownik zaznaczy uprawnienie, którego nie ma i kliknie "przekaż" to nie powstanie wpis w bazie
         DataTable queryResult;
-        
+        SqlCommand command;
+
         DatabaseConnector ourDB = new DatabaseConnector("test", "VERONYA\\SQLEXPRESS", "SurfBurger");
 
 
@@ -47,7 +48,7 @@ namespace BSK.projekt
         private void updateCheckBox_CheckedChanged(object sender, EventArgs e) { }
         private void selectCheckBox_CheckedChanged(object sender, EventArgs e) { }
         private void chosenUserTextBox_TextChanged(object sender, EventArgs e) { }
-        private void usun_Click(object sender, EventArgs e)  { }
+       
         private void przejmij_Click(object sender, EventArgs e) { }
         private void availableColumns_TextChanged(object sender, EventArgs e) { }
         private void typedInColumnsTextBox_TextChanged(object sender, EventArgs e) { }
@@ -66,7 +67,17 @@ namespace BSK.projekt
             TworzenieNowegoUzytkownika3 cnu = new TworzenieNowegoUzytkownika3();
             cnu.Show();
         }
-        
+
+        private void usun_Click(object sender, EventArgs e)
+        {
+            recipient = chosenUserTextBox.Text;
+            query = "UPDATE Historia SET  RodzajOperacji = @RodzajOperacji, WszystkiePosiadaneUprawnienia = '', CzyAktualne = 0  WHERE Biorca = @recipient and CzyAktualne = 1";
+            command = new SqlCommand(query, ourDB.connection);
+            
+            command.Parameters.Add("@RodzajOperacji", "dezaktywacja konta");
+            command.Parameters.Add("@recipient", recipient);
+            command.ExecuteNonQuery();
+        }
 
         private void przekaz_Click(object sender, EventArgs e)
         {
@@ -258,8 +269,8 @@ namespace BSK.projekt
             if (goOn && powersToPass != "")
             {
                 //ustawianie poprzedniego wpisu o uprawnieniach biorcy, jako nieaktualny
-                string query = "UPDATE Historia SET CzyAktualne = 0 WHERE Biorca = @BiorcaUpdate and CzyAktualne = 1";
-                SqlCommand command = new SqlCommand(query, ourDB.connection);
+                query = "UPDATE Historia SET CzyAktualne = 0 WHERE Biorca = @BiorcaUpdate and CzyAktualne = 1";
+                command = new SqlCommand(query, ourDB.connection);
                 command.Parameters.Add("@BiorcaUpdate", recipient);
                 command.ExecuteNonQuery();
 

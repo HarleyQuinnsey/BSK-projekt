@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 
 namespace BSK.projekt
 {
-    class DatabaseConnector
+    public class DatabaseConnector
     {
         public SqlConnection connection;
         public SqlCommand commandSQL;

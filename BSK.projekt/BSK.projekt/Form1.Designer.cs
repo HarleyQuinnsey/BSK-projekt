@@ -50,6 +50,10 @@ namespace BSK.projekt
             this.add = new System.Windows.Forms.Button();
             this.questionResult = new System.Windows.Forms.DataGridView();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.conditionValueTextBox = new System.Windows.Forms.TextBox();
+            this.conditionColumnTextBox = new System.Windows.Forms.TextBox();
+            this.conditionValueLabel = new System.Windows.Forms.Label();
+            this.conditionColumnLabel = new System.Windows.Forms.Label();
             this.typedInValuesTextBox = new System.Windows.Forms.TextBox();
             this.chooseValuesLabel = new System.Windows.Forms.Label();
             this.makeQuestionButton = new System.Windows.Forms.Button();
@@ -67,10 +71,6 @@ namespace BSK.projekt
             this.yourPowersGroupBox = new System.Windows.Forms.GroupBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
-            this.conditionColumnLabel = new System.Windows.Forms.Label();
-            this.conditionValueLabel = new System.Windows.Forms.Label();
-            this.conditionColumnTextBox = new System.Windows.Forms.TextBox();
-            this.conditionValueTextBox = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.questionResult)).BeginInit();
             this.groupBox3.SuspendLayout();
@@ -267,7 +267,7 @@ namespace BSK.projekt
             this.usun.Name = "usun";
             this.usun.Size = new System.Drawing.Size(75, 43);
             this.usun.TabIndex = 3;
-            this.usun.Text = "Usun usera";
+            this.usun.Text = "Dezaktywuj usera";
             this.usun.UseVisualStyleBackColor = true;
             this.usun.Click += new System.EventHandler(this.usun_Click);
             // 
@@ -277,7 +277,7 @@ namespace BSK.projekt
             this.add.Name = "add";
             this.add.Size = new System.Drawing.Size(79, 43);
             this.add.TabIndex = 2;
-            this.add.Text = "Dodaj nowego usera";
+            this.add.Text = "Dodaj  usera";
             this.add.UseVisualStyleBackColor = true;
             this.add.Click += new System.EventHandler(this.add_Click);
             // 
@@ -317,6 +317,44 @@ namespace BSK.projekt
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "DZIAŁANIA NA BAZIE";
+            // 
+            // conditionValueTextBox
+            // 
+            this.conditionValueTextBox.Location = new System.Drawing.Point(241, 239);
+            this.conditionValueTextBox.Multiline = true;
+            this.conditionValueTextBox.Name = "conditionValueTextBox";
+            this.conditionValueTextBox.Size = new System.Drawing.Size(218, 40);
+            this.conditionValueTextBox.TabIndex = 34;
+            this.conditionValueTextBox.Visible = false;
+            // 
+            // conditionColumnTextBox
+            // 
+            this.conditionColumnTextBox.Location = new System.Drawing.Point(10, 239);
+            this.conditionColumnTextBox.Multiline = true;
+            this.conditionColumnTextBox.Name = "conditionColumnTextBox";
+            this.conditionColumnTextBox.Size = new System.Drawing.Size(212, 40);
+            this.conditionColumnTextBox.TabIndex = 33;
+            this.conditionColumnTextBox.Visible = false;
+            // 
+            // conditionValueLabel
+            // 
+            this.conditionValueLabel.AutoSize = true;
+            this.conditionValueLabel.Location = new System.Drawing.Point(238, 223);
+            this.conditionValueLabel.Name = "conditionValueLabel";
+            this.conditionValueLabel.Size = new System.Drawing.Size(193, 13);
+            this.conditionValueLabel.TabIndex = 32;
+            this.conditionValueLabel.Text = "Wartość kolumny po lewej do warunku:";
+            this.conditionValueLabel.Visible = false;
+            // 
+            // conditionColumnLabel
+            // 
+            this.conditionColumnLabel.AutoSize = true;
+            this.conditionColumnLabel.Location = new System.Drawing.Point(7, 223);
+            this.conditionColumnLabel.Name = "conditionColumnLabel";
+            this.conditionColumnLabel.Size = new System.Drawing.Size(110, 13);
+            this.conditionColumnLabel.TabIndex = 31;
+            this.conditionColumnLabel.Text = "Kolumna do warunku:";
+            this.conditionColumnLabel.Visible = false;
             // 
             // typedInValuesTextBox
             // 
@@ -493,44 +531,6 @@ namespace BSK.projekt
             this.button3.TabIndex = 6;
             this.button3.Text = "Kliknij tu, aby zobaczyć historię Twoich uprawnień.";
             this.button3.UseVisualStyleBackColor = false;
-            // 
-            // conditionColumnLabel
-            // 
-            this.conditionColumnLabel.AutoSize = true;
-            this.conditionColumnLabel.Location = new System.Drawing.Point(7, 223);
-            this.conditionColumnLabel.Name = "conditionColumnLabel";
-            this.conditionColumnLabel.Size = new System.Drawing.Size(110, 13);
-            this.conditionColumnLabel.TabIndex = 31;
-            this.conditionColumnLabel.Text = "Kolumna do warunku:";
-            this.conditionColumnLabel.Visible = false;
-            // 
-            // conditionValueLabel
-            // 
-            this.conditionValueLabel.AutoSize = true;
-            this.conditionValueLabel.Location = new System.Drawing.Point(238, 223);
-            this.conditionValueLabel.Name = "conditionValueLabel";
-            this.conditionValueLabel.Size = new System.Drawing.Size(193, 13);
-            this.conditionValueLabel.TabIndex = 32;
-            this.conditionValueLabel.Text = "Wartość kolumny po lewej do warunku:";
-            this.conditionValueLabel.Visible = false;
-            // 
-            // conditionColumnTextBox
-            // 
-            this.conditionColumnTextBox.Location = new System.Drawing.Point(10, 239);
-            this.conditionColumnTextBox.Multiline = true;
-            this.conditionColumnTextBox.Name = "conditionColumnTextBox";
-            this.conditionColumnTextBox.Size = new System.Drawing.Size(212, 40);
-            this.conditionColumnTextBox.TabIndex = 33;
-            this.conditionColumnTextBox.Visible = false;
-            // 
-            // conditionValueTextBox
-            // 
-            this.conditionValueTextBox.Location = new System.Drawing.Point(241, 239);
-            this.conditionValueTextBox.Multiline = true;
-            this.conditionValueTextBox.Name = "conditionValueTextBox";
-            this.conditionValueTextBox.Size = new System.Drawing.Size(218, 40);
-            this.conditionValueTextBox.TabIndex = 34;
-            this.conditionValueTextBox.Visible = false;
             // 
             // Form1
             // 
