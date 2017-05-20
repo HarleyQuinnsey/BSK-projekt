@@ -1,0 +1,60 @@
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.pdb
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form1.resources
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.exe
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.pdb
+c:\users\tomaszpaluch\documents\visual studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form2.resources
+C:\Users\tomaszpaluch\Documents\Visual Studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Logowanie.resources
+C:\Users\tomaszpaluch\Documents\Visual Studio 2015\Projects\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.TworzenieNowegoUzytkownika3.resources
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.exe
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.pdb
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.pdb
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form1.resources
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form2.resources
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Logowanie.resources
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.TworzenieNowegoUzytkownika3.resources
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
+C:\Users\Veronya^^\Downloads\BSK.projekt (2)\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form1.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form2.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Logowanie.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.TworzenieNowegoUzytkownika3.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.exe
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.pdb
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.pdb
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.exe
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.pdb
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.pdb
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form1.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form2.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Logowanie.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.TworzenieNowegoUzytkownika3.resources
+C:\Users\Veronya^^\Downloads\BSK projekt połączony z bazą v3\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.exe
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.pdb
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.exe
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\bin\Debug\BSK.projekt.pdb
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form1.resources
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Form2.resources
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Logowanie.resources
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.TworzenieNowegoUzytkownika3.resources
+D:\STUDIA\VI sem aplikacje\BSK\BSK projekt OK\BSK.projekt\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
