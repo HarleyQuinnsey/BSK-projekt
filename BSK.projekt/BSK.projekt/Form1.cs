@@ -70,6 +70,7 @@ namespace BSK.projekt
 
         private void przekaz_Click(object sender, EventArgs e)
         {
+            int lol;
             queryResult = ourDB.getData("SELECT * FROM Historia WHERE Biorca = '" + typedLogin + "' and CzyAktualne = 1"); //dopisac, ze jak to admin, to ownedPowers=wszystkie
             string ownedPowers = queryResult.Rows[0][5].ToString();
             string powersToPass = "", powersToPassTEMP = "", chosenTable = "";
